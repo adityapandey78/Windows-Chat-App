@@ -93,7 +93,7 @@ This project is built using Visual Studio's native toolchain. Using Visual Studi
 
 ## Output 
 
-[Demo Video](/winChatApp.gif)
+![Demo Video](/winChatApp.gif)
 
 ## Technical References
 
