@@ -92,7 +92,8 @@ This project is built using Visual Studio's native toolchain. Using Visual Studi
 5. Type "quit" in any client to gracefully disconnect
 
 ## Output 
-<video src="winChatApp.mp4" title="WinChatApp Demo" autoplay loop muted></video>
+
+[Demo Video](/winChatApp.gif)
 
 ## Technical References
 
