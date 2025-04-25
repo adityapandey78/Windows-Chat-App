@@ -1,0 +1,3 @@
+﻿  client1.cpp
+D:\Coding\Devlopment\WinChatApp\client1\client1.cpp(29,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  client1.vcxproj -> D:\Coding\Devlopment\WinChatApp\client1\x64\Debug\client1.exe
