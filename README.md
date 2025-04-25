@@ -91,9 +91,8 @@ This project is built using Visual Studio's native toolchain. Using Visual Studi
 4. Exchange messages between connected clients
 5. Type "quit" in any client to gracefully disconnect
 
-## Output 
-
-<img src="winChatApp.gif" alt="Demo Video" width="800"/>
+## Demo Video 
+![Click Here](/winChatApp.gif)
 
 ## Technical References
 
