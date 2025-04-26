@@ -94,6 +94,42 @@ This project is built using Visual Studio's native toolchain. Using Visual Studi
 ## Demo Video 
 ![Click Here](/winChatApp.gif)
 
+
+## UML Diagram of System Architecture
+
+<table>
+<tr>
+<tr>
+<td>
+
+### Flowchart
+![Flow Diagram](/flow-diagram.png)
+
+</td>
+<td>
+
+### Windows Chat State
+![Windows Chat State Diagram](/win-chat%20state%20diagram.png)
+
+</td>
+</tr>
+<tr>
+<td>
+
+### Server Thread
+![Server Thread Diagram](/main-thread.png)
+
+</td>
+<td>
+
+### Client Thread
+![Client Thread Diagram](/client-thread.png)
+
+</td>
+</tr>
+</tr>
+</table>
+
 ## Technical References
 
 - [Windows Sockets 2 Reference](https://docs.microsoft.com/en-us/windows/win32/api/_winsock/)
@@ -107,3 +143,4 @@ This project is built using Visual Studio's native toolchain. Using Visual Studi
 - Implement a more robust protocol with message types and error handling
 - Create a GUI front-end using Windows native controls or a cross-platform framework
 
+---
